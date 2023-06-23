@@ -71,3 +71,12 @@ input{
     padding: 0 5px;
 }
 
+
+@media (max-width : 478px ){
+.card{
+    padding: 1rem 2rem;
+    margin: 1rem;
+    text-align: center;
+    gap:   2rem;
+}
+}
